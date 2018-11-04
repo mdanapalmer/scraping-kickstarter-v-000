@@ -1,6 +1,5 @@
 require 'nokogiri'
 
-class Scraper 
+class Scraper
 
 end
-
